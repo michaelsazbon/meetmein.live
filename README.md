@@ -21,4 +21,4 @@ We welcome contributions from the open-source community to enhance and improve o
 
 ## Feedback and Support
 
-Your feedback is invaluable to us! If you have any questions, feedback, or need support, please reach out to our team at support@3dmeetingapp.com. We are here to assist you and ensure you have a seamless experience with our app.
+Your feedback is invaluable to us! If you have any questions, feedback, or need support, please submit an [issue in github](https://github.com/michaelsazbon/meetmein.live/issues/new)
