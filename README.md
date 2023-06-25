@@ -1,7 +1,8 @@
 # meetmein.live
-Repository for the documentation and issue on the new immersive 3D meeting app MeetMeIn.live
 
 ![App Logo](welcome-app.png)
+
+> Repository for the documentation, Support and contribution request for the > new immersive 3D meeting app MeetMeIn.live
 
 Welcome to our innovative 3D meeting app repository! This application takes your virtual meetings to a whole new level by simulating the real world in a stunning 3D environment. Say goodbye to boring and static video conferences, and embrace a more immersive and engaging meeting experience.
 
